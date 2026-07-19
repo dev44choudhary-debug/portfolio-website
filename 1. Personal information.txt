@@ -1,0 +1,40 @@
+1. Personal information:
+ Name Dev Choudhary
+Ph. no. 6377940271
+email: dev44choudhary@gmail
+linkedin url: https://www.linkedin.com/in/dev-choudhary-2006june
+
+GitHub url: https://www.github.com/in/dev44choudhary-debug
+
+
+2. Skills:
+
+java html css 
+framework: bootstrap
+tools: GitHub vscode
+technology: cloud 
+
+3. EDucation:
+jecrc university btech 2024-2028
+branch: cse blockchain
+cgpa: 7.5
+
+
+
+4. Experience: 
+Comapny : corizo edtech 
+duration 2 months october-november
+role: intern
+responsibilities: web dev intern
+
+
+5. projetcs:
+portfolio website 
+file integrity checker 
+ecc security system 
+e-commerce app
+(technology used for all)
+
+6. Certificates: 
+google cloud computing by google skills 
+web dev and programming in java from upgrad 
